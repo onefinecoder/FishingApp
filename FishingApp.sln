@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30427.197
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FishingApp", "FishingApp\FishingApp.csproj", "{B488E6C5-306D-4357-8A47-D86131017C46}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{629A5457-35AC-497D-92EC-2505C73F0B65}"
+	ProjectSection(SolutionItems) = preProject
+		Design.txt = Design.txt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B488E6C5-306D-4357-8A47-D86131017C46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B488E6C5-306D-4357-8A47-D86131017C46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B488E6C5-306D-4357-8A47-D86131017C46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B488E6C5-306D-4357-8A47-D86131017C46}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E2C9EDF7-AFD5-40BC-BE14-1435A5AA5987}
+	EndGlobalSection
+EndGlobal

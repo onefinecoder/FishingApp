@@ -1,0 +1,42 @@
+Fishing App
+
+
+Player (Fisherman)
+Data
+- Username      string
+- Score      int 
+********************************
+
+Function
+- void Catch()
+**********************************
+Fish
+
+Data
+
+- FishType    string
+- Points      int
+
+- Bass     10
+- Perch    2
+- Walleye  20
+- Sunfish  5
+- pike     30
+
+
+**********************************************
+
+
+Lake
+River
+Pond
+
+
+********************************
+
+
+
+GameEngine
+Function
+- Fish CatchFish()
+    
