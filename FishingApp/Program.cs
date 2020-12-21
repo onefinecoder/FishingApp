@@ -16,7 +16,7 @@ namespace FishingApp
             Console.WriteLine("&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&");
             Console.WriteLine("WELCOME TO THE FISHING GAME");
             Console.WriteLine("&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&");
-
+            Console.WriteLine("BY BRANDON");
             //ask user what their Username is
             Console.WriteLine("What is your Username?");
 
